@@ -1,0 +1,1 @@
+En las siguientes carpetas se encontrarán las evidencias de cada una de las solicitudes realizadas a la API, junto con sus respectivos test y resultados, además de un archivo .docx en donde se encuentra la descripción de cada una y un archivo.json de la colección de Postman
